@@ -154,6 +154,7 @@ public class StudentController {
     }
 }
 ### DemoApplication.java
+```
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
@@ -165,3 +166,26 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 }
+```
+### Output
+
+#### Create
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a6fa7322-b95a-4d06-ba72-3259cb5881cb" />
+
+#### Read all
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bf62d198-293a-47c2-a397-01b079abe76d" />
+
+#### Read one
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c9692de3-c9e8-4d7a-b754-d7c513b152a7" />
+
+#### Update
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5061c5bf-a245-46c7-b768-a491ddfeda6f" />
+
+#### Delete
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a13f9b22-e97c-4de0-94f8-4fd54dd02b73" />
+
+### Result
+
+Thus, the Spring Boot application was successfully developed to perform CRUD (Create, Read, Update, and Delete) operations on the Student entity using Spring Data JPA (Hibernate) with MySQL database.
+
+
